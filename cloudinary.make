@@ -13,12 +13,7 @@ projects[] = redis
 projects[] = mongodb
 projects[] = admin_menu
 projects[] = module_filter
-
-; Cloudinary module from drupal sandbox
-projects[cloudinary][type] = "module"
-projects[cloudinary][download][type] = "git"
-projects[cloudinary][download][url] = "http://git.drupal.org/sandbox/everright/2444793.git"
-projects[cloudinary][download][branch] = "7.x-1.x"
+projects[] = cloudinary
 
 ; Cloudinary PHP SDK
 libraries[cloudinary][download][type]= "git"
