@@ -18,7 +18,7 @@ projects[] = cloudinary
 ; Cloudinary PHP SDK
 libraries[cloudinary][download][type]= "git"
 libraries[cloudinary][download][url] = "https://github.com/cloudinary/cloudinary_php.git"
-libraries[cloudinary][download][tag] = "1.0.17"
+libraries[cloudinary][download][tag] = "1.9.0"
 libraries[cloudinary][directory_name] = "cloudinary"
 
 ; Predis
