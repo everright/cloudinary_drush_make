@@ -1,7 +1,7 @@
 # cloudinary_drush_make
 A drush make file for you to test cloudinary module quickly.
 
-https://www.drupal.org/sandbox/everright/2444793
+https://www.drupal.org/project/cloudinary
 
 You just need to clone the make files, then drush make it
  and install your drupal site.
